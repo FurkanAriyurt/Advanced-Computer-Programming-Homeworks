@@ -1,4 +1,4 @@
-# Advanced Computer Programming Homeworks
+# ********** Furkan ARİYURT **********
 
 ## 2. HAFTA ÖDEVLERİ
 ### Uygulama 1
